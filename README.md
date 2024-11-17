@@ -2,8 +2,8 @@
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate with vs code
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me i am also new to this
+- 😄 Pronouns: jagriti 🎤 
 - ⚡ Fun fact: i am very lazy
 
 <!---
